@@ -16,3 +16,4 @@
     - 자세한 내용 etup_coco_dataset.sh 파일의 주석 참고
     - 리눅스 터미널에서 아래의 명령어 실행(본인은 cygwin 사용)
     - bash setup_coco_dataset.sh
+        - bash 했을 때 잘 안되면 터미널에서 파일 안의 코드를 한줄 한줄 실행한다. 

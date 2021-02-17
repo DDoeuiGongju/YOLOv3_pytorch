@@ -11,7 +11,7 @@
     - 손실 계산
 4. NMS 구현
     -bbox_iou 구현: 박스의 위치에 대한 iou
-5. dataset 준비
+6. dataset 준비
     - https://drive.google.com/file/d/1wJn0GOGcWpHwe60tN3lP63cb28lEqemJ/view?usp=sharing 에서 yolov3.zip파일 다운
     - 자세한 내용 etup_coco_dataset.sh 파일의 주석 참고
     - 리눅스 터미널에서 아래의 명령어 실행(본인은 cygwin 사용)

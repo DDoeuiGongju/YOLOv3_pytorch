@@ -1,6 +1,6 @@
 # YOLOv3 with pytorch
-YOLOv3: An Incremental Improvement paper implementation
-파이토치로 YOLOv3구현해보기
+YOLOv3: An Incremental Improvement paper implementation  
+파이토치로 YOLOv3구현해보기  
 ※ https://arxiv.org/abs/1804.02767
 
 ### YOLOv3 구현한 순서
